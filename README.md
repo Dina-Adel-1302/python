@@ -1,5 +1,6 @@
 # python
-python programs based on MIT course: [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) 
+python programs assignments for MIT course: [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) 
 
-* Hangman. 
-* 
+* [RSS Feed Filter](https://github.com/Dina-Adel-1302/python/tree/main/RSS%20Feed%20Filter)
+* [Caeser Cipher]() using recursion ![](:face_with_head_bandage:)
+* Word game.
